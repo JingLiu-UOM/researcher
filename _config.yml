@@ -9,7 +9,7 @@
 title                    : "Jing Liu"
 description              : "PhD. Candicate in Materials"
 repository               : "JingLiu-UOM/acad-homepage.github.io"
-google_scholar_stats_use_cdn : true
+teaser                   :  # filename of teaser fallback teaser image placed in /images/   
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
