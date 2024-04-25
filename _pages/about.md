@@ -29,8 +29,16 @@ redirect_from:
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.06* Achievement of outstanding graduate student at Jiangsu Province. 
+- *2023.06* Achievement of outstanding graduate student at Soochow University. 
+- *2022.11* National Gold award of the 8th China International College Students’ “Internet+” Innovation and Entrepreneurship Competition. 
+- *2022.11* A+ scholarships (Top grade) at Soochow University. 
+- *2022.09* National Excellence award of the China - US Young Maker Competition. 
+- *2022.06* Second prize of the 22nd “Challenge Cup” National Science and Technology College of extra-curricular academic competition works at Soochow University. 
+- *2021.11* First-class scholarships at Soochow University. 
+- *2021.08* Third prize of the Innovation, Entrepreneurship and Creativity Competition at Soochow University. 
+- *2020.11* First-class scholarships at Soochow University. 
+- *2018.11* National Second prize of the 10th “Red, Green and Blue Cup” National University Textile Design Competition. 
 
 
 # 💬 Invited Talks
