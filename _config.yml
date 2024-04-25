@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jing Liu"
-description              : "PhD. Candicate in Material"
+description              : "PhD. Candicate in Materials"
 repository               : "JingLiu-UOM/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jing Liu"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "University of Manchester"
   location         : "Manchester, UK"
   employer         :
