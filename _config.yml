@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jing Liu"
-description              : "PhD. Candicate in Universoty of Manchester"
+description              : "PhD. Candicate in Material"
 repository               : "JingLiu-UOM/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,9 +22,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jing Liu"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  avatar           : "profile.png"
+  bio              : "University of Manchester"
+  location         : "Manchester, UK"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
