@@ -26,7 +26,7 @@ redirect_from:
 </div>
 </div>
 
-- [A negative-response strain sensor towards wearable microclimate changes for body area sensing networks](https://github.com), A, B, C, **CVPR 2020**
+- [A negative-response strain sensor towards wearable microclimate changes for body area sensing networks](https://www.sciencedirect.com/science/article/abs/pii/S1385894723003595#b0120), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
