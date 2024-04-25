@@ -29,21 +29,21 @@ redirect_from:
 
 
 # 🎖 Honors and Awards
-- *2023.06* Achievement of outstanding graduate student at Jiangsu Province. 
-- *2023.06* Achievement of outstanding graduate student at Soochow University. 
-- *2022.11* National Gold award of the 8th China International College Students’ “Internet+” Innovation and Entrepreneurship Competition. 
-- *2022.11* A+ scholarships (Top grade) at Soochow University. 
-- *2022.09* National Excellence award of the China - US Young Maker Competition. 
-- *2022.06* Second prize of the 22nd “Challenge Cup” National Science and Technology College of extra-curricular academic competition works at Soochow University. 
-- *2021.11* First-class scholarships at Soochow University. 
-- *2021.08* Third prize of the Innovation, Entrepreneurship and Creativity Competition at Soochow University. 
-- *2020.11* First-class scholarships at Soochow University. 
-- *2018.11* National Second prize of the 10th “Red, Green and Blue Cup” National University Textile Design Competition. 
+- *2023.06*  Achievement of outstanding graduate student at Jiangsu Province. 
+- *2023.06*  Achievement of outstanding graduate student at Soochow University. 
+- *2022.11*  National Gold award of the 8th China International College Students’ “Internet+” Innovation and Entrepreneurship Competition. 
+- *2022.11*  A+ scholarships (Top grade) at Soochow University. 
+- *2022.09*  National Excellence award of the China - US Young Maker Competition. 
+- *2022.06*  Second prize of the 22nd “Challenge Cup” National Science and Technology College of extra-curricular academic competition works at Soochow University. 
+- *2021.11*  First-class scholarships at Soochow University. 
+- *2021.08*  Third prize of the Innovation, Entrepreneurship and Creativity Competition at Soochow University. 
+- *2020.11*  First-class scholarships at Soochow University. 
+- *2018.11*  National Second prize of the 10th “Red, Green and Blue Cup” National University Textile Design Competition. 
 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💬 Academic Experience
+- *2023.08 - 2023.08*,  Outstanding volunteer at Textile Bioengineering and Informatics Society. 
+- *2022.12 - 2022.12*,  Made a presentation at The 10th China International Silk Conference. 
+- *2022.07 - 2022.08*,  Achievement of graduation in Protective and Safety Textiles Summer School for graduate students at Jiangsu Province. 
+- *2020.09 - 2022.09*,  Served as the safety officer of the laboratory of the College of Textile and Clothing Engineering of Soochow University. 
+- *2022.05 - 2022.06*,  Visiting scholar at Kunming Institute of Botany, Chinese Academy of Sciences. 
