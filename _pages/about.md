@@ -26,7 +26,9 @@ redirect_from:
 </div>
 </div>
 
-- [A negative-response strain sensor towards wearable microclimate changes for body area sensing networks](https://www.sciencedirect.com/science/article/abs/pii/S1385894723003595#b0120), Chemical Engineering Journal 2023
+- [A negative-response strain sensor towards wearable microclimate changes for body area sensing networks](https://www.sciencedirect.com/science/article/abs/pii/S1385894723003595#b0120), Jing Liu, Junze Zhang, Zeyu Zhao, et al. Chemical Engineering Journal 2023
+- [Calotropis Gigantea Fiber-based Sensitivity-tunable Strain Sensors with Insensitive Response to Wearable Microclimate Changes](https://link.springer.com/article/10.1007/s42765-023-00270-y), Junze Zhang, Jing Liu (Joint first authors), et al. Advanced Fiber Materials 2023
+- [A facile scalable conductive graphene-coated Calotropis gigantea yarn](https://link.springer.com/article/10.1007/s10570-022-04475-z), Junze Zhang, Jing Liu, Zeyu Zhao, et al. Advanced Fiber Materials 2023
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
