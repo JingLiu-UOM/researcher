@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-
+# 🔥 About Me
+- I am a Ph.D. candidate at Department of Materials, The University of Manchester, United Kingdom. My research interests include nanomaterials and functionalized materials for the development of advanced composites, and flexible electronics such as sensors.
 
 # 📖 Educations
 - *2023.09 - now*, Ph.D. Apparel and Textile, University of Manchester, Manchester, UK.  
