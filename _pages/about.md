@@ -11,7 +11,7 @@ redirect_from:
 
 
 # 🔥 About Me
-- I am a Ph.D. candidate at Department of Materials, The University of Manchester, United Kingdom. My research interests include nanomaterials and functionalized materials for the development of advanced composites, and flexible electronics such as sensors.
+- I am a Ph.D. candidate at the Department of Materials, The University of Manchester, United Kingdom. My research interests include nanomaterials and functionalized materials for the development of advanced composites and flexible electronics such as sensors.
 
 # 📖 Educations
 - *2023.09 - now*, Ph.D. Apparel and Textile, University of Manchester, Manchester, UK.  
@@ -20,6 +20,8 @@ redirect_from:
 
 
 # 📝 Publications 
+- [Enhancing Wearable Electronics through Thermal Management Innovations]([https://www.sciencedirect.com/science/article/abs/pii/S1385894723003595#b0120](https://www.sciencedirect.com/science/article/pii/S2950235724000131)),Jing Liu, Heng Zhai, Jiashen Li, Yi Li, Zekun Liu. Wearable Electronics 2024
+- [A wearable strain sensor with self-cleaning capability for underwater applications](https://www.sciencedirect.com/science/article/pii/S138589472403314X), Jing Liu, Junze Zhang, Weiwei Sun, et al. Chemical Engineering Journal 2024
 - [A negative-response strain sensor towards wearable microclimate changes for body area sensing networks](https://www.sciencedirect.com/science/article/abs/pii/S1385894723003595#b0120), Jing Liu, Junze Zhang, Zeyu Zhao, et al. Chemical Engineering Journal 2023
 - [Calotropis Gigantea Fiber-based Sensitivity-tunable Strain Sensors with Insensitive Response to Wearable Microclimate Changes](https://link.springer.com/article/10.1007/s42765-023-00270-y), Junze Zhang, Jing Liu (Joint first authors), et al. Advanced Fiber Materials 2023
 - [A facile scalable conductive graphene-coated Calotropis gigantea yarn](https://link.springer.com/article/10.1007/s10570-022-04475-z), Junze Zhang, Jing Liu, Zeyu Zhao, et al. Advanced Fiber Materials 2023
